@@ -1,5 +1,13 @@
 # interviewer
 
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg?style=flat-square) ![Attribution-NonCommercial-ShareAlike CC BY-NC-SA](LICENSE.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+
+[![GitHub watchers](https://img.shields.io/github/watchers/maskleo-learning/interviewer.svg?style=flat-square&logo=github&label=Watch)](https://github.com/maskleo-learning/interviewer/watchers)  [![GitHub stars](https://img.shields.io/github/stars/maskleo-learning/interviewer.svg?style=flat-square&logo=github&label=Stars)](https://github.com/maskleo-learning/interviewer/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/maskleo-learning/interviewer.svg?style=flat-square&logo=github&label=Fork)](https://github.com/maskleo-learning/interviewer/network) 
+
+
+
+
 ![image](images/001.png)
 
 - **Situation: 简短的项目背景，** 比如项目的规模，开发软件的功能、目标用户等。
