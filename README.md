@@ -1,5 +1,46 @@
 # interviewer
 
+![image](images/001.png)
+
+- **Situation: 简短的项目背景，** 比如项目的规模，开发软件的功能、目标用户等。
+- **Task: 自己完成 的任务。** 这个要写详细，要让面试官对自己的工作一目了然。在用词上注意区分“参与”和“负责”：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - http://www.importnew.com/22083.html
 - http://www.importnew.com/22087.html
 - http://www.importnew.com/17232.html
