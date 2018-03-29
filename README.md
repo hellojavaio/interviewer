@@ -59,6 +59,9 @@
 - https://juejin.im/post/5aae4e8f6fb9a028e52d9e8c?utm_source=gold_browser_extension
 - https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ==&mid=2452964547&idx=1&sn=ffd4eee6536356a79884b104a81d00b9&chksm=88ede9abbf9a60bd065d14f8e0c962aa817249409698075ccb619c9abc7f0ec908600a7fca7b&scene=21#wechat_redirect
 
+
+- https://segmentfault.com/a/1190000013970632
+
 TODO:
 ## 基础篇
 ### 基本功
